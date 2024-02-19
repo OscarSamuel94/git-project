@@ -18,10 +18,10 @@ class Aventuras extends Libro {
   }
 
   precioDetalle() {
-    return `El precio del libro ${this.tamanio} es: ${this.precio}`;
+    return `El precio del libro ${this.tamanio} es bonito: ${this.precio}`;
   }
 }
 
 const vueltaAlMundo = new Aventuras("Grande", "Fisico", "800", "Centro", 450);
 
-console.log(vueltaAlMundo.detalles(), vueltaAlMundo.precioDetalle());
+console.log(vueltaAlMundo.detalles());
