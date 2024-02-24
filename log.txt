@@ -1,0 +1,24 @@
+7b9c332 Agregando Lorems
+b257046 Merge branch 'main' of https://github.com/OscarSamuel94/git-project
+dee7931 Esta chido esto
+bfcc4b1 Resolviendo conflicto estaciones y fechas del año
+52d3019 modificando ultimo mensaje
+3716ef1 Me voy a equivocar a proposito en este commit
+1e233c5 Agregando las estaciones del año
+e6724df Resolviendo conflicto merge main-HTML en el doc index.html
+f6500c7 agregando codigo.js al index.html
+867b203 agregando stile css al index.html
+abe32f9 javascript.js
+4267520 creando css
+6743be4 Creando archivo index.html
+c33f6c0 Merge branch 'main' of https://github.com/OscarSamuel94/git-project
+fab0708 subiendo sin archivos ignorados
+58b48b9 Create LICENSE.txt
+e8a720a nuevo codigo js
+a6344ef esoty agregando algo nuevo, una imágen
+aeb4900 nuevo
+10edb7d más
+cd7818d más texto
+ea4b6b2 mas texto
+d3a248c nuevo
+e1cf7a2 first commit

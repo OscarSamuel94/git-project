@@ -1,0 +1,150 @@
+commit 7b9c332b3d82c86bc2a426b8b0226026c819a558
+Author: Oscar Samuel <samuelramiirez@gmail.com>
+Date:   Tue Feb 20 21:54:35 2024 -0600
+
+    Agregando Lorems
+
+commit b257046f1c4276d54e5725748ba9d5c55bda3a0c
+Merge: dee7931 bfcc4b1
+Author: Oscar Samuel <samuelramiirez@gmail.com>
+Date:   Tue Feb 20 21:51:15 2024 -0600
+
+    Merge branch 'main' of https://github.com/OscarSamuel94/git-project
+
+commit dee7931cb0edc15ac2ecb002db48d87e7dd6fee3
+Merge: 52d3019 3716ef1
+Author: Oscar Samuel <samuelramiirez@gmail.com>
+Date:   Tue Feb 20 21:49:23 2024 -0600
+
+    Esta chido esto
+
+commit bfcc4b11c46e203ae28892dd60b1016d4a683f98
+Merge: 52d3019 3716ef1
+Author: Oscar Samuel <samuelramiirez@gmail.com>
+Date:   Tue Feb 20 21:49:23 2024 -0600
+
+    Resolviendo conflicto estaciones y fechas del año
+
+commit 52d3019192a1cf6e11b306372650e48eddd83afd
+Author: Oscar Samuel <samuelramiirez@gmail.com>
+Date:   Tue Feb 20 21:32:45 2024 -0600
+
+    modificando ultimo mensaje
+
+commit 3716ef15153a99a7457408a3fa3f88167e575310
+Author: Oscar Samuel <samuelramiirez@gmail.com>
+Date:   Tue Feb 20 21:32:45 2024 -0600
+
+    Me voy a equivocar a proposito en este commit
+
+commit 1e233c59fceae2010aa1ff3b7c26fa1eb61fce6b
+Author: Oscar Samuel <samuelramiirez@gmail.com>
+Date:   Tue Feb 20 21:17:50 2024 -0600
+
+    Agregando las estaciones del año
+
+commit e6724dfcd5a32843b25a8004ede76f9ffefa5875
+Merge: 867b203 f6500c7
+Author: Oscar Samuel <samuelramiirez@gmail.com>
+Date:   Tue Feb 20 20:42:54 2024 -0600
+
+    Resolviendo conflicto merge main-HTML en el doc index.html
+
+commit f6500c7e03bbeecf1e80d37250b9f285181e1283
+Author: Oscar Samuel <samuelramiirez@gmail.com>
+Date:   Tue Feb 20 20:35:05 2024 -0600
+
+    agregando codigo.js al index.html
+
+commit 867b203430be935e579cb914cce9e078a5b886bd
+Author: Oscar Samuel <samuelramiirez@gmail.com>
+Date:   Tue Feb 20 20:33:14 2024 -0600
+
+    agregando stile css al index.html
+
+commit abe32f987706909d51d3ec36b39d33cd90782c19
+Author: Oscar Samuel <samuelramiirez@gmail.com>
+Date:   Sun Feb 18 19:04:55 2024 -0600
+
+    javascript.js
+
+commit 42675203c2479444e2cc5b77037cf8f534675246
+Author: Oscar Samuel <samuelramiirez@gmail.com>
+Date:   Sun Feb 18 18:57:59 2024 -0600
+
+    creando css
+
+commit 6743be405d5a61afffbe503a96bc9a45888af045
+Author: Oscar Samuel <samuelramiirez@gmail.com>
+Date:   Sun Feb 18 18:50:44 2024 -0600
+
+    Creando archivo index.html
+
+commit c33f6c03446bc9ed063ff3f03b05621b5f79dc1b
+Merge: fab0708 58b48b9
+Author: Oscar Samuel <samuelramiirez@gmail.com>
+Date:   Sun Feb 18 18:24:26 2024 -0600
+
+    Merge branch 'main' of https://github.com/OscarSamuel94/git-project
+
+commit fab070834a447ba5796b79f435f6fc2abbe39569
+Author: Oscar Samuel <samuelramiirez@gmail.com>
+Date:   Sun Feb 18 18:23:53 2024 -0600
+
+    subiendo sin archivos ignorados
+
+commit 58b48b93e4fb2060ec52244369537bc714d1b73a
+Author: OscarSamuel94 <146952755+OscarSamuel94@users.noreply.github.com>
+Date:   Fri Feb 16 20:20:05 2024 -0600
+
+    Create LICENSE.txt
+    
+    Licencia para mi proyecto
+
+commit e8a720a764b8f1713f2613237b556276ef205d52
+Author: Oscar Samuel <samuelramiirez@gmail.com>
+Date:   Thu Feb 15 21:00:56 2024 -0600
+
+    nuevo codigo js
+
+commit a6344ef2e199a0005dd438ed336bc8efa12e96e1
+Author: Oscar Samuel <samuelramiirez@gmail.com>
+Date:   Thu Feb 15 20:18:14 2024 -0600
+
+    esoty agregando algo nuevo, una imágen
+
+commit aeb49008762f723349e511e3d3ab793c9c4c008d
+Author: Oscar Samuel <samuelramiirez@gmail.com>
+Date:   Thu Feb 15 20:15:41 2024 -0600
+
+    nuevo
+
+commit 10edb7d45121fdca9ca9e62cd6df088d7a4a3e77
+Author: Oscar Samuel <samuelramiirez@gmail.com>
+Date:   Thu Feb 15 20:10:53 2024 -0600
+
+    más
+
+commit cd7818de947c4f85da1c06b291ec0558cc965645
+Author: Oscar Samuel <samuelramiirez@gmail.com>
+Date:   Thu Feb 15 20:08:08 2024 -0600
+
+    más texto
+
+commit ea4b6b23fe8f757b3c8d02b2da38c358d8eaf3a8
+Author: Oscar Samuel <samuelramiirez@gmail.com>
+Date:   Thu Feb 15 20:04:25 2024 -0600
+
+    mas texto
+
+commit d3a248cd24644a5d811f85ec7a88e2b9c507f9bb
+Author: Oscar Samuel <samuelramiirez@gmail.com>
+Date:   Thu Feb 15 20:00:20 2024 -0600
+
+    nuevo
+
+commit e1cf7a271a778eb7c969200f2a47ab60e4b3f24a
+Author: Oscar Samuel <oscarsamueldev@gmail.com>
+Date:   Thu Feb 15 17:51:24 2024 -0600
+
+    first commit
